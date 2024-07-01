@@ -1,0 +1,20 @@
+\---
+
+confluence-id: 108761442
+
+confluence-space: %%CONFLUENCE-SPACE%%
+
+\---
+
+2019-02-14 AG Agenda and Notes
+==============================
+
+Created by Heather Greer Klein, last modified by John Kunze on Mar 09, 2019
+
+A CDL representative will act as interim chair until a Chair is selected by the AG.
+
+Attending -  Kurt Ewoldsen, John Kunze, John Howard, David Wilcox, Kate Wittenberg, Martin Kalfatovic, Brian McBride, Frédérique Joannic-Seta, Bertrand Caron
+
+| Discussion Items | Notes |
+| --- | --- |
+| Working Group invitations: progress on responses<br><br>Lyrasis / DuraSpace merger update<br><br>Review Action items from prior meetings<br><br>*   ACTION - We will create a new spreadsheet or googledoc where AG members can suggest people from the EOI to the WG. **dropped - not relevant**<br>*   ACTION - Kurt we need to put together a template lightning talk anyone could deliver. **done**<br>*   ACTION - John will add project page link, specific group charter links to the generic invitation template **done**<br>*   ACTION - John will create a spreadsheet for tracking invitations. **done**<br>*   ACTION - John will add information to the invitation and share for feedback. Deadline to empower members to invite working group members will be 1/17/19 **done**<br><br>Still to do:<br><br>*   ACTION - Create document where AG members can add events they'll be attending in 2019, for future project update<br>*   ACTION - John and Kurt to set a shared public calendar for ARKs meetings (ask Duraspace for help on this)<br>*   ACTION - eventually follow up to all who filled out an EOI form | Review of affirmative working group member responses:<br><br>*   Outreach = 4<br>*   Sustainability = 6<br>*   Technical = more than enough<br><br>So the question is whether we have enough to move forward with scheduling<br><br>DuraSpace confirmed that 7-9 is the ideal size, since not everyone will attend all meetings<br><br>We agreed to move forward with existing group members and let the first meeting further refine the working group purpose & goals, which will allow targeted recruiting of further members (by both WG & AG)<br><br>Group approved reaching out to C. Neylon to participate in the sustainability working group<br><br>ACTION - send extra invitations<br><br>ACTION - send reminders<br><br>John H. is willing to lead Outreach group, but sparse membership:  should recruiting continue?<br><br>ACTION - John K & John H will get together and review the EOI list for targets for invitations<br><br>AG liaisons to lead each working group are:<br><br>*   Outreach = John Howard<br>*   Sustainability = Kate Wittenberg<br>*   Technical = John Kunze    <br><br>These liaisons will poll the workgroup members and schedule the initial meetings for some time in March<br><br>These first meetings will include self-organizing:  pick a leader and a mode of operation<br><br>*   If necessary, AG liaisons will lead until the group agrees on an alternative<br><br>ACTION - John K will draft a generic message to organize the first WG metings<br><br>David gave an update on the DuraSpace & Lyrasis merger, which is in the due diligence phase; DuraSpace sees the financial support from Lyrasis as beneficial and Lyrasis is looking for international growth<br><br>John K. has created draft of a lightning talk and shared it with the group<br><br>John K. & Kurt had a follow up discussion with BnF to recap the meeting, covering the high-points of the meeting from before they were able to connect<br><br>Bertrand pointed out that we need representation in the working groups from organizations that do not get their ARKs or infrastructure from CDL, but either run their own or go to another service provider for it<br><br>CDL agrees that it is critical to the community’s viability that all perspectives and needs are represented in our work; that is the only way this effort will be successful |
